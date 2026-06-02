@@ -97,4 +97,37 @@ Troubleshooting Performed:<br>
 Solution:<br>
 Reset the user's password and provided the updated credentials/password reset process. Confirmed that the user was able to log in successfully.<br><hr>
 <h1>#Ticket 9#</h1>
+<img width="577" height="296" alt="2" src="https://github.com/user-attachments/assets/7d8ce26a-b758-45b1-802a-58f33384ae59" /><br>
+Issue: User was unable to log in to Pulse.<br><br>
+
+Troubleshooting Performed:<br>
+1-Discussed the login process with the user.<br>
+2-Verified that the username and password were entered correctly.<br>
+3-Identified that the user did not enter the required MFA token/passcode during authentication.<br>
+<img width="357" height="276" alt="1" src="https://github.com/user-attachments/assets/4bbaf1f9-fe90-430a-ba1f-76851f1e2d9b" /><br><br>
+
+
+Solution:<br>
+Provided guidance on entering the MFA token/passcode and completing the Pulse login process. Confirmed that the user was able to access Pulse successfully.<br><hr>
 <h1>#Ticket 10#</h1>
+<img width="590" height="450" alt="1" src="https://github.com/user-attachments/assets/32a4adc4-dd5b-49b4-b945-9fcab91e0c5a" /><br>
+Issue: User was unable to access or use their mailbox.<br><br>
+
+Troubleshooting Performed:<br>
+1-Reviewed the user's Microsoft 365 mailbox status.<br>
+2-Checked mailbox storage utilization.<br>
+3-Identified that the mailbox had reached its storage limit.<br><br>
+
+Solution:<br>
+Assisted the user in reducing mailbox usage by deleting unnecessary emails and emptying deleted items, or increased mailbox capacity according to company policy.<br><hr>
+<h1>#Ticket 11#</h1>
+<h1>#Ticket 12#</h1>
+<h1>#Ticket 13#</h1>
+<h1>#Ticket 14#</h1>
+<h1>#Ticket 15#</h1>
+<h1>#Ticket 16#</h1>
+<h1>#Ticket 17#</h1>
+<h1>#Ticket 18#</h1>
+<h1>#Ticket 19#</h1>
+<h1>#Ticket 20#</h1>
+
