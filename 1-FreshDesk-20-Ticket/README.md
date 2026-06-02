@@ -10,6 +10,7 @@ The customer is unable to install the printer because the Print Spooler service 
 4-Set the Startup type to Automatic.<br>
 5-Click Start to start the service if it is not already running.<br>
 6-Ask the customer to try installing the printer again.<br><hr>
+
 <h1>#Ticket 2#</h1>
 <img width="799" height="410" alt="1" src="https://github.com/user-attachments/assets/0766f6b0-98b8-4657-9582-e276c5a28407" /><br><br>
 Issue: Laptop battery is not charging properly / battery drains quickly.<br><br>
@@ -18,6 +19,7 @@ Troubleshooting Steps:<br>
 2-If no abnormal resource usage is found, conclude that the battery is faulty.<br>
 Resolution:<br>
 order a replacement battery for the customer and provide an estimated replacement timeline.<br><hr>
+
 <h1>#Ticket 3#</h1>
 <img width="806" height="430" alt="1" src="https://github.com/user-attachments/assets/4035fca9-58b1-441c-a285-3ef3394cff01" /><br><br>
 Issue: Dual monitor setup is not working through the docking station, despite all cables being connected correctly.<br><br>
@@ -37,6 +39,7 @@ Troubleshooting Steps:<br>
 3-Confirmed there is no indication of malware or virus activity.<br><br>
 Solution:<br>
 Approved and initiated an SSD upgrade request for the user's computer to improve overall system performance.<br><hr>
+
 <h1>#Ticket 5#</h1>
 <img width="569" height="458" alt="4" src="https://github.com/user-attachments/assets/cf7a6dcc-76dd-4a4b-83a9-5e33463ef8ca" /><br><br>
 Issue: User requested assistance entering Safe Mode in Windows 10 to uninstall an unstable application.<br><br>
@@ -51,7 +54,22 @@ Troubleshooting Steps:<br>
 4-Once in Safe Mode, uninstall the unstable application from Control Panel > Programs and Features.<br><br>
 solution:<br>
 User was provided with Safe Mode instructions and guidance on uninstalling the problematic application.<br><hr>
+
 <h1>#Ticket 6#</h1>
+<img width="574" height="464" alt="1" src="https://github.com/user-attachments/assets/7c8dade0-59e7-4c2c-a069-068f63ee6f85" /><br><br>
+Issue: User requested access to the G: shared drive.<br><br>
+Troubleshooting Performed:<br>
+1-Verified that the user is authorized to access the shared drive.<br>
+<img width="418" height="347" alt="2" src="https://github.com/user-attachments/assets/79b7b6a5-69a0-4efc-a430-6a95655a532c" /><br>
+2-Checked the Share Permissions on the shared folder.<br>
+3-Checked the NTFS Security Permissions to ensure the user has the required access.<br>
+<img width="242" height="347" alt="3" src="https://github.com/user-attachments/assets/93e381db-0ec8-441a-8825-261de08ed0f6" /><br>
+4-Mapped the network drive on the user's computer and verified connectivity.<br>
+<img width="440" height="362" alt="4" src="https://github.com/user-attachments/assets/1079795c-bad0-4941-8ec5-f8c832d83668" /><br><br>
+
+
+Solution:<br>
+Granted the required permissions to the shared folder and mapped the network drive on the user's computer. Confirmed that the user can access the G: drive successfully.<br>
 <h1>#Ticket 7#</h1>
 <h1>#Ticket 8#</h1>
 <h1>#Ticket 9#</h1>
