@@ -84,5 +84,17 @@ Troubleshooting Performed:<br>
 Solution:<br>
 Assigned a valid Microsoft 365 license to the user and verified that email access was restored successfully.<br><hr>
 <h1>#Ticket 8#</h1>
+<img width="556" height="464" alt="2" src="https://github.com/user-attachments/assets/d54bc46a-7010-4401-98c3-f6433735ef52" /><br>
+Issue: User was unable to log in to their computer because the password was not being accepted.<br><br>
+
+Troubleshooting Performed:<br>
+1-Verified the user's account information.<br>
+2-Checked for any account-related issues.<br>
+3-Assisted the user with resetting their password.<br>
+<img width="339" height="320" alt="1" src="https://github.com/user-attachments/assets/4df06951-43d1-4b4d-9e14-572058590739" /><br><br>
+
+
+Solution:<br>
+Reset the user's password and provided the updated credentials/password reset process. Confirmed that the user was able to log in successfully.<br><hr>
 <h1>#Ticket 9#</h1>
 <h1>#Ticket 10#</h1>
