@@ -20,7 +20,7 @@ Resolution:<br>
 order a replacement battery for the customer and provide an estimated replacement timeline.<br><hr>
 <h1>#Ticket 3#</h1>
 <img width="806" height="430" alt="1" src="https://github.com/user-attachments/assets/4035fca9-58b1-441c-a285-3ef3394cff01" /><br><br>
-Issue: Dual monitor setup is not working through the docking station, despite all cables being connected correctly.<br>
+Issue: Dual monitor setup is not working through the docking station, despite all cables being connected correctly.<br><br>
 Troubleshooting Steps:<br>
 1-Verified that all display and docking station cables were connected properly.<br>
 2-Checked Windows display settings to ensure the monitors were detected.<br>
