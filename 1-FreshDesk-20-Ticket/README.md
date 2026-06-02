@@ -12,7 +12,7 @@ The customer is unable to install the printer because the Print Spooler service 
 6-Ask the customer to try installing the printer again.<br><hr>
 <h1>#Ticket 2#</h1>
 <img width="799" height="410" alt="1" src="https://github.com/user-attachments/assets/0766f6b0-98b8-4657-9582-e276c5a28407" /><br><br>
-Issue: Laptop battery is not charging properly / battery drains quickly.<br>
+Issue: Laptop battery is not charging properly / battery drains quickly.<br><br>
 Troubleshooting Steps:<br>
 1-Check Task Manager for any applications or processes consuming excessive CPU, memory, or power resources.<br>
 2-If no abnormal resource usage is found, conclude that the battery is faulty.<br>
