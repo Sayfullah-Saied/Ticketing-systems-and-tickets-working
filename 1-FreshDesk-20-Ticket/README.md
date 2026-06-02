@@ -70,6 +70,19 @@ Troubleshooting Performed:<br>
 Solution:<br>
 Granted the required permissions to the shared folder and mapped the network drive on the user's computer. Confirmed that the user can access the G: drive successfully.<br><hr>
 <h1>#Ticket 7#</h1>
+<img width="563" height="446" alt="3" src="https://github.com/user-attachments/assets/dd8a2113-4449-4116-ade7-0eb29b303f08" /><br>
+<img width="547" height="299" alt="1" src="https://github.com/user-attachments/assets/7f9cb5d2-8b35-4088-b7a7-25d265e51694" /><br>
+
+Issue: User reported that email was not working.<br><br>
+
+Troubleshooting Performed:<br>
+1-Investigated the user's Microsoft 365 account.<br>
+<img width="560" height="301" alt="2" src="https://github.com/user-attachments/assets/0124ed4c-6d9f-494e-8512-66ecb60b0197" /><br>
+2-Verified the license assignment status.<br>
+3-Identified that the assigned Microsoft 365 license had expired.<br><br>
+
+Solution:<br>
+Assigned a valid Microsoft 365 license to the user and verified that email access was restored successfully.<br><hr>
 <h1>#Ticket 8#</h1>
 <h1>#Ticket 9#</h1>
 <h1>#Ticket 10#</h1>
