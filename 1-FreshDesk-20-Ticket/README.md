@@ -1,4 +1,4 @@
-<h2>we will solve 20 ticket on fresh desk tickting system</h2><br>
+<h2>we will solve 20 common ticket on fresh desk tickting system</h2><br>
 <h1>#Ticket 1#</h1>
 <img width="872" height="718" alt="1" src="https://github.com/user-attachments/assets/f871be2f-90bc-413e-991c-2ce3372589e0" /><br>
 The customer is unable to install the printer because the Print Spooler service is not running. We should enable the service by following these steps:<br><br>
