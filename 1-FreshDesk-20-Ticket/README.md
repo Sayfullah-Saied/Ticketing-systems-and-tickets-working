@@ -28,10 +28,16 @@ Troubleshooting Steps:<br>
 3-The docking station appears to be the most likely cause of the issue, as the monitors and system settings were verified.<br><br>
 Solution:<br>
 Ordered a replacement docking station for the user and advised them to test the dual monitor setup once the replacement arrives.<br><hr>
-
-
-
 <h1>#Ticket 4#</h1>
+<img width="565" height="472" alt="1" src="https://github.com/user-attachments/assets/48a1f8dd-e441-43c8-85f3-d176cbabb1ec" /><br><br>
+Issue: User reports that the computer is running slowly and requests an SSD upgrade.<br><br>
+Troubleshooting Steps:<br>
+1-Discussed the issue with the user.<br>
+2-Confirmed that the disk is not full.<br>
+3-Confirmed there is no indication of malware or virus activity.<br><br>
+Solution:<br>
+Approved and initiated an SSD upgrade request for the user's computer to improve overall system performance.<br><hr>
+
 <h1>#Ticket 5#</h1>
 <h1>#Ticket 6#</h1>
 <h1>#Ticket 7#</h1>
