@@ -25,8 +25,7 @@ Troubleshooting Steps:<br>
 1-Verified that all display and docking station cables were connected properly.<br>
 2-Checked Windows display settings to ensure the monitors were detected.<br>
 <img width="760" height="640" alt="2" src="https://github.com/user-attachments/assets/d785f15c-beb5-4f9c-95e3-a937568a92a3" /><br><br>
-3-The docking station appears to be the most likely cause of the issue, as the monitors and system settings were verified.<br>
-
+3-The docking station appears to be the most likely cause of the issue, as the monitors and system settings were verified.<br><br>
 Solution:<br>
 Ordered a replacement docking station for the user and advised them to test the dual monitor setup once the replacement arrives.<br><hr>
 
