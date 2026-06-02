@@ -9,7 +9,7 @@ The customer is unable to install the printer because the Print Spooler service 
 <img width="540" height="461" alt="3" src="https://github.com/user-attachments/assets/23c8d555-b95e-4b88-9266-1c8b617abd84" /><br><br>
 4-Set the Startup type to Automatic.<br>
 5-Click Start to start the service if it is not already running.<br>
-6-Ask the customer to try installing the printer again.<br>
+6-Ask the customer to try installing the printer again.<br><hr>
 
 <h1>#Ticket 2#</h1>
 <h1>#Ticket 3#</h1>
