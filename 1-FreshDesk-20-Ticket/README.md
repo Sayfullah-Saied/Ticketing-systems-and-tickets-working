@@ -37,8 +37,20 @@ Troubleshooting Steps:<br>
 3-Confirmed there is no indication of malware or virus activity.<br><br>
 Solution:<br>
 Approved and initiated an SSD upgrade request for the user's computer to improve overall system performance.<br><hr>
-
 <h1>#Ticket 5#</h1>
+<img width="569" height="458" alt="4" src="https://github.com/user-attachments/assets/cf7a6dcc-76dd-4a4b-83a9-5e33463ef8ca" /><br><br>
+Issue: User requested assistance entering Safe Mode in Windows 10 to uninstall an unstable application.<br><br>
+
+Troubleshooting Steps:<br>
+1-press shift and restart PC<br>
+2-Select Troubleshoot > Advanced options > Startup Settings > Restart.<br>
+<img width="530" height="377" alt="1" src="https://github.com/user-attachments/assets/46a36d9a-19d3-4ba0-bd64-7a2aab632c13" /><br>
+<img width="578" height="342" alt="2" src="https://github.com/user-attachments/assets/cbbc6e05-635e-4d27-912d-b87376733733" /><br><br>
+3-After the restart, press 4 or F4 to start in Safe Mode.<br>
+<img width="466" height="359" alt="3" src="https://github.com/user-attachments/assets/e4994248-8638-4b6a-a97a-ea6f65c916a4" /><br><br>
+4-Once in Safe Mode, uninstall the unstable application from Control Panel > Programs and Features.<br><br>
+solution:<br>
+User was provided with Safe Mode instructions and guidance on uninstalling the problematic application.<br><hr>
 <h1>#Ticket 6#</h1>
 <h1>#Ticket 7#</h1>
 <h1>#Ticket 8#</h1>
