@@ -1,7 +1,7 @@
 <h2>we will solve 20 ticket on fresh desk tickting system</h2><br>
 <h1>#Ticket 1#</h1>
 <img width="872" height="718" alt="1" src="https://github.com/user-attachments/assets/f871be2f-90bc-413e-991c-2ce3372589e0" /><br>
-The customer is unable to install the printer because the Print Spooler service is not running. We should enable the service by following these steps:<br>
+The customer is unable to install the printer because the Print Spooler service is not running. We should enable the service by following these steps:<br><br>
 1-Contact the customer and request remote access to their computer using Remote Desktop Connection or another approved remote support tool.<br>
 <img width="462" height="223" alt="2" src="https://github.com/user-attachments/assets/d6323af2-0661-42bf-b214-1f2bb8092d25" /><br><br>
 2-Open Services (services.msc).<br>
