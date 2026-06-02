@@ -147,6 +147,17 @@ Troubleshooting Performed:<br>
 Solution:<br>
 Advised the technician to use an approved remote support tool (e.g., Teams screen sharing, Quick Assist, AnyDesk, TeamViewer, or company-approved software) and request the user to join a remote session. Once connected, remote control can be granted for troubleshooting.<br><hr>
 <h1>#Ticket 13#</h1>
+<img width="599" height="459" alt="1" src="https://github.com/user-attachments/assets/f3f554b2-b401-4a06-92ec-86bf9c993aa1" /><br>
+Issue: User requested assistance accessing their work email on a mobile device.<br><br>
+
+Troubleshooting Performed:<br>
+
+1-Confirmed that the user has a valid Microsoft 365 account.<br>
+2-Reviewed available options for mobile email access.<br><br>
+
+Solution:<br>
+Advised the user to install the Microsoft Outlook mobile app from the App Store or Google Play Store and sign in using their work email credentials.<br><hr>
+
 <h1>#Ticket 14#</h1>
 <h1>#Ticket 15#</h1>
 <h1>#Ticket 16#</h1>
