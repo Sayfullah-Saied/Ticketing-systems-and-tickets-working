@@ -65,11 +65,10 @@ Troubleshooting Performed:<br>
 3-Checked the NTFS Security Permissions to ensure the user has the required access.<br>
 <img width="242" height="347" alt="3" src="https://github.com/user-attachments/assets/93e381db-0ec8-441a-8825-261de08ed0f6" /><br>
 4-Mapped the network drive on the user's computer and verified connectivity.<br>
-<img width="440" height="362" alt="4" src="https://github.com/user-attachments/assets/1079795c-bad0-4941-8ec5-f8c832d83668" /><br><hr>
-
+<img width="440" height="362" alt="4" src="https://github.com/user-attachments/assets/1079795c-bad0-4941-8ec5-f8c832d83668" /><br><br>
 
 Solution:<br>
-Granted the required permissions to the shared folder and mapped the network drive on the user's computer. Confirmed that the user can access the G: drive successfully.<br>
+Granted the required permissions to the shared folder and mapped the network drive on the user's computer. Confirmed that the user can access the G: drive successfully.<br><hr>
 <h1>#Ticket 7#</h1>
 <h1>#Ticket 8#</h1>
 <h1>#Ticket 9#</h1>
