@@ -120,8 +120,32 @@ Troubleshooting Performed:<br>
 
 Solution:<br>
 Assisted the user in reducing mailbox usage by deleting unnecessary emails and emptying deleted items, or increased mailbox capacity according to company policy.<br><hr>
+
 <h1>#Ticket 11#</h1>
+<img width="865" height="539" alt="1" src="https://github.com/user-attachments/assets/4ab8bec7-602b-49b5-bcc1-da225dfc91fd" /><br><br>
+Issue: User reported Outlook is running slowly despite upgrading RAM from 4 GB to 8 GB and reinstalling Microsoft 365.<br><br>
+
+Troubleshooting Steps:<br>
+1-Reviewed the user's Outlook performance issue.<br>
+2-Confirmed the issue persisted after a RAM upgrade and Office reinstallation.<br>
+3-Identified multiple Outlook archive (PST) files stored on the C: and F: drives.<br>
+4-Advised the user to monitor Outlook performance and check Task Manager for excessive CPU, memory, or disk usage when the slowdown occurs.<br><br>
+
+
+Solution:<br>
+Provided troubleshooting instructions to identify resource bottlenecks and advised the user to review unnecessary archive files. Awaiting user feedback on the results.<br><hr>
 <h1>#Ticket 12#</h1>
+<img width="829" height="553" alt="1" src="https://github.com/user-attachments/assets/e3db1e98-2d95-4d0d-bf40-26b8e9ffa8ef" /><br><br>
+Issue: Technician needed to remotely access a user's computer, but the device was connected to the user's home network and not connected to the company VPN.<br><br>
+
+Troubleshooting Performed:<br>
+
+1-Reviewed available remote access options.<br>
+2-Confirmed that the user's device was reachable via the internet but not through the corporate network.<br>
+3-Evaluated alternative remote support methods.<br><br>
+
+Solution:<br>
+Advised the technician to use an approved remote support tool (e.g., Teams screen sharing, Quick Assist, AnyDesk, TeamViewer, or company-approved software) and request the user to join a remote session. Once connected, remote control can be granted for troubleshooting.<br><hr>
 <h1>#Ticket 13#</h1>
 <h1>#Ticket 14#</h1>
 <h1>#Ticket 15#</h1>
