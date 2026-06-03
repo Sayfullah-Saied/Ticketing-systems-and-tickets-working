@@ -1,6 +1,7 @@
 <h2>we will solve 20 common ticket on fresh desk tickting system</h2><br><br>
 these are the tickets, we will assign it ourselves first and let's work it:<br>
-<img width="1062" height="719" alt="Screenshot 2026-06-04 014203" src="https://github.com/user-attachments/assets/d275e3b3-6683-4617-80f2-e6631b4ba475" /><br><br>
+<img width="1033" height="691" alt="Screenshot 2026-06-04 014419" src="https://github.com/user-attachments/assets/84b3a05e-66b1-498c-bcdb-26685eac08cf" />
+<br><br>
 
 <h1>#Ticket 1#</h1>
 <img width="872" height="718" alt="1" src="https://github.com/user-attachments/assets/f871be2f-90bc-413e-991c-2ce3372589e0" /><br>
