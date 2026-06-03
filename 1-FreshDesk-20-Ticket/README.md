@@ -159,10 +159,100 @@ Solution:<br>
 Advised the user to install the Microsoft Outlook mobile app from the App Store or Google Play Store and sign in using their work email credentials.<br><hr>
 
 <h1>#Ticket 14#</h1>
+<img width="599" height="494" alt="2" src="https://github.com/user-attachments/assets/29d72b84-7fbb-4443-aa24-d028e6aaec37" /><br><br>
+Issue: Warehouse laser printer is unable to print shipping labels.<br><br>
+
+Troubleshooting Performed:<br>
+
+Confirmed the printer was powered on and restarted.<br>
+Verified that the issue persisted after the restart.<br>
+Checked printer status for any error messages.<br>
+Verified network connectivity between the printer and the workstation.<br>
+Checked the print queue for stuck or failed print jobs.<br>
+Verified that the printer is set as the default printer and is online.<br><br>
+
+Solution:<br>
+Cleared the print queue, verified printer connectivity and status, restarted the Print Spooler service if necessary, and tested printing. If the issue persists, inspect the printer for hardware faults or escalate to the printer vendor/support team.<br><hr>
+
 <h1>#Ticket 15#</h1>
+<img width="889" height="570" alt="1" src="https://github.com/user-attachments/assets/092ab691-7322-417f-9ad7-615eea06fa9e" /><br><br>
+Issue: User requires assistance installing software from a shared drive.<br><br>
+
+Troubleshooting Performed:<br>
+
+Confirmed the user requires software installation assistance.<br>
+Contacted the user and requested permission for a remote support session.<br>
+Verified access to the shared drive containing the installation files.<br><br>
+
+Solution:<br>
+Connected to the user's computer remotely, accessed the shared drive, and installed the required software. Verified that the installation completed successfully and that the application launched correctly.<br><hr>
+
 <h1>#Ticket 16#</h1>
+<img width="583" height="466" alt="1" src="https://github.com/user-attachments/assets/2298d16d-f771-49f8-b09e-2edf51ef476e" /><br>
+Issue: User was unable to use the webcam during meetings.<br><br>
+
+Troubleshooting Performed:<br>
+
+Connected to the user's computer remotely.<br>
+Checked camera settings and device status.<br>
+Verified that the webcam was not installed/configured correctly.<br>
+Installed the webcam driver/software and verified device recognition.<br><br>
+
+Solution:<br>
+Installed and configured the webcam driver/software. Tested the camera and confirmed it was functioning correctly in meeting applications.<br><hr>
+
 <h1>#Ticket 17#</h1>
+<img width="647" height="393" alt="1" src="https://github.com/user-attachments/assets/b8a9ffc3-5e27-4c8c-8a5d-e2740fdf95c6" /><br>
+Issue: User reported receiving a Blue Screen of Death (BSOD) when starting the computer.<br><br>
+
+Troubleshooting Performed:<br>
+
+Contacted the user and gathered details about the issue.<br>
+Instructed the user to restart the computer.<br>
+Verified that the system booted successfully after the restart.<br><br>
+
+
+Solution:<br>
+Restarted the computer and restored normal system operation. Advised the user to contact IT if the BSOD occurs again.<br><hr>
+
 <h1>#Ticket 18#</h1>
+<img width="595" height="422" alt="1" src="https://github.com/user-attachments/assets/96b6aaca-202a-4188-84ed-5e9c6badd235" /><br>
+Issue: User requested access to Microsoft Teams on a mobile device.<br><br>
+
+Troubleshooting Performed:<br>
+
+Confirmed the user has a Microsoft 365 account.<br>
+Reviewed the steps required to access Teams on a mobile device.<br><br>
+
+Solution:<br>
+Advised the user to download the Microsoft Teams app from the Apple App Store or Google Play Store and sign in using their Microsoft 365 work credentials. Provided guidance on completing MFA authentication if prompted.<br><hr>
+
 <h1>#Ticket 19#</h1>
+<img width="632" height="378" alt="1" src="https://github.com/user-attachments/assets/b74a4f5a-aaa5-40d3-bdbe-ff1f91646971" /><br>
+Issue: User was unable to connect to their printer. The printer appeared offline when attempting to print from the laptop.<br><br>
+
+Troubleshooting Performed:<br>
+
+Connected to the user's computer remotely.<br>
+Verified printer connectivity and configuration.<br>
+Checked printer status and ensured it was online.<br>
+Configured the printer on the user's laptop.<br>
+Performed a test print with the user.<br><br>
+
+Solution:<br>
+Configured the printer and verified communication between the laptop and printer. Successfully completed a test print.<br><hr>
+
 <h1>#Ticket 20#</h1>
+<img width="616" height="433" alt="1" src="https://github.com/user-attachments/assets/da6d1660-7a9c-43cd-8b8b-8e772f393133" /><br>
+Issue: Remote laser printer was unable to resolve the printer hostname/DNS address.<br><br>
+
+Troubleshooting Performed:<br>
+
+Verified that the printer could not be reached using its DNS name.<br>
+Confirmed that the printer was accessible via its IP address.<br>
+Reviewed printer port configuration.<br><br>
+
+Solution:<br>
+Configured the printer using its IP address instead of the DNS hostname to bypass the DNS resolution issue. Tested connectivity and confirmed successful communication with the printer.<br><hr>
+
 
