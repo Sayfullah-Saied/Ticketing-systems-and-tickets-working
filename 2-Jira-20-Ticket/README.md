@@ -33,6 +33,19 @@ Solution:<br>
 Requested clarification on the system/application where MFA needs to be configured. Awaiting user response before proceeding with setup assistance.<br><hr>
 
 <h1>#Ticket 3#</h1>
+<img width="748" height="557" alt="1" src="https://github.com/user-attachments/assets/cf7a1b6a-295e-462d-a815-d9c257a02d70" /><br><br>
+Issue:<br>
+User performed a factory reset on their desktop after forgetting their password and requires assistance updating Windows and antivirus software.<br><br>
+
+Troubleshooting Steps:<br>
+
+
+1-Contacted the user to arrange a remote support session for system configuration and updates.<br>
+2-Requested device details and availability for support.<br><br>
+
+Solution:<br>
+Provided guidance and requested a remote session to assist with Windows updates, antivirus updates, and post-reset device configuration. Awaiting user response.<br><hr>
+
 <h1>#Ticket 4#</h1>
 <h1>#Ticket 5#</h1>
 <h1>#Ticket 6#</h1>
