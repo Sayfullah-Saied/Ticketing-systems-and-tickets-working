@@ -38,8 +38,6 @@ Issue:<br>
 User performed a factory reset on their desktop after forgetting their password and requires assistance updating Windows and antivirus software.<br><br>
 
 Troubleshooting Steps:<br>
-
-
 1-Contacted the user to arrange a remote support session for system configuration and updates.<br>
 2-Requested device details and availability for support.<br><br>
 
