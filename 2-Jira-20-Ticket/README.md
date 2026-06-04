@@ -16,7 +16,22 @@ Troubleshooting Steps:<br>
 
 Solution:<br>
 Provided advanced troubleshooting steps, including testing Outlook in Safe Mode, disabling add-ins, creating a new Outlook profile, and rebuilding the search index. Awaiting user feedback to confirm resolution. Ticket pending user response.<br><hr>
+
 <h1>#Ticket 2#</h1>
+<img width="719" height="595" alt="1" src="https://github.com/user-attachments/assets/306b8cc1-8884-4abe-afd0-b9db135dc6d4" /><br><br>
+Issue:<br>
+User requires assistance configuring Multi-Factor Authentication (MFA) for a company system but did not specify the application or platform.<br><br>
+
+Troubleshooting Steps:<br>
+
+1-Reviewed the user's request for MFA setup assistance.<br>
+2-Determined that the target application/system was not specified.<br>
+3-Requested additional information regarding the application or service requiring MFA configuration.<br>
+4-Advised the user that setup instructions will vary depending on the platform.<br><br>
+
+Solution:<br>
+Requested clarification on the system/application where MFA needs to be configured. Awaiting user response before proceeding with setup assistance.<br><hr>
+
 <h1>#Ticket 3#</h1>
 <h1>#Ticket 4#</h1>
 <h1>#Ticket 5#</h1>
