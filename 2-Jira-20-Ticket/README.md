@@ -58,7 +58,19 @@ Troubleshooting Steps:<br>
 
 Solution:<br>
 Located the missing Excel file in the user's OneDrive through SharePoint Admin Center and restored it. User was able to open the file successfully.<br><hr>
+
 <h1>#Ticket 5#</h1>
+<img width="699" height="550" alt="1" src="https://github.com/user-attachments/assets/501c87df-58b3-4be5-825e-3e42600d3795" /><br><br>
+Issue:<br>
+User unable to send email due to attachment size.<br><br>
+
+Troubleshooting Steps:<br>
+
+Verified the issue was caused by the message size restriction.<br>
+Advised the user to use OneDrive/SharePoint to share the file.<br><br>
+
+Solution:<br>
+Email was blocked due to the attachment exceeding the maximum allowed size. User was advised to upload the file to OneDrive/SharePoint and share a link instead.<br><hr>
 <h1>#Ticket 6#</h1>
 <h1>#Ticket 7#</h1>
 <h1>#Ticket 8#</h1>
