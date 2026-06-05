@@ -45,6 +45,19 @@ Solution:<br>
 Provided guidance and requested a remote session to assist with Windows updates, antivirus updates, and post-reset device configuration. Awaiting user response.<br><hr>
 
 <h1>#Ticket 4#</h1>
+<img width="694" height="508" alt="1" src="https://github.com/user-attachments/assets/cffe43bf-a41e-45b5-a6aa-fbe182f4cd67" /><br><br>
+Issue:<br>
+User could not locate an Excel file needed for work.<br><br>
+
+Troubleshooting Steps:<br>
+
+1-Accessed the user's OneDrive site from SharePoint Admin Center.<br>
+2-Reviewed the document library and recycle bin.<br>
+3-Located the missing Excel file.<br>
+4-Restored the file and confirmed access with the user.<br><br>
+
+Solution:<br>
+Located the missing Excel file in the user's OneDrive through SharePoint Admin Center and restored it. User was able to open the file successfully.<br><hr>
 <h1>#Ticket 5#</h1>
 <h1>#Ticket 6#</h1>
 <h1>#Ticket 7#</h1>
