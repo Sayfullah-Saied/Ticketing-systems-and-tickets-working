@@ -159,7 +159,31 @@ Troubleshooting Steps:<br>
 Solution:<br>
 Affected device was removed from service and isolated for investigation. Incident was escalated to the security team, and data recovery options were reviewed. A replacement computer was provided to the user while remediation and recovery efforts were underway.<br><hr>
 <h1>#Ticket 12#</h1>
+<img width="653" height="493" alt="1" src="https://github.com/user-attachments/assets/04b9433f-3f39-4f26-803b-c2a3d664958b" /><br><br>
+Issue:<br>
+User was unable to access Google by hostname (google.com) but could access the site directly using its IP address.<br><br>
+
+Troubleshooting Steps:<br>
+
+1-Flushed the local DNS cache using ipconfig /flushdns.<br>
+2-Tested name resolution again.<br>
+3-Verified DNS server settings on the workstation.<br><br>
+
+Solution:<br>
+Issue was related to DNS name resolution. Flushed the local DNS cache and verified that hostname resolution was working correctly. User was able to access Google using the URL after the DNS refresh.<br>
 <h1>#Ticket 13#</h1>
+<img width="668" height="520" alt="2" src="https://github.com/user-attachments/assets/8f7aafef-0246-4c53-a5c2-7acff10163b9" /><br><br>
+Issue:<br>
+User reported that their headset was not working with Avaya Communicator.<br><br>
+
+Troubleshooting Steps:<br>
+Checked Windows sound settings and confirmed the correct playback and recording devices were selected.<br>
+Verified the headset was selected as the audio device in Avaya Communicator.<br>
+Tested microphone and speaker functionality.<br>
+Confirmed headset functionality with the user.<br><br>
+
+Solution:<br>
+The headset was not selected as the active audio device in Windows and/or Avaya Communicator. Updated the audio settings and verified that the headset was working properly for calls.<br>
 <h1>#Ticket 14#</h1>
 <h1>#Ticket 15#</h1>
 <h1>#Ticket 16#</h1>
