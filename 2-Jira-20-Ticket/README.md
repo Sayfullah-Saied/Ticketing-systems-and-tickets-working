@@ -117,7 +117,32 @@ Troubleshooting Steps:<br>
 Solution:<br>
 Found stuck print jobs in the print queue. Cleared the queue and restarted the Print Spooler service. Tested printing successfully and confirmed with the user that documents were printing again.<br>
 <h1>#Ticket 9#</h1>
+<img width="684" height="510" alt="1" src="https://github.com/user-attachments/assets/0a004717-c8f4-405c-9921-a00956d443eb" /><br><br>
+Issue:<br>
+User reported the error: "The device, \Device\Harddisk0\DR0, has a bad block."<br><br>
+
+Troubleshooting Steps:<br>
+
+1-Checked Windows Event Viewer logs.<br>
+2-Identified disk-related bad block errors on the primary drive.<br>
+3-Advised the user to run chkdsk /f to check and repair file system errors.<br>
+4-Reviewed SMART/disk health status.<br>
+5-Determined the issue is likely related to failing disk hardware.<br><br>
+
+Solution:<br>
+Bad block errors indicate the hard drive is beginning to fail. Ran disk checks and advised the user to back up all important data immediately. Recommended replacing the drive and migrating to an SSD to prevent data loss and recurring issues.<br><hr>
+
 <h1>#Ticket 10#</h1>
+<img width="662" height="524" alt="1" src="https://github.com/user-attachments/assets/db0a3544-11c3-4d09-a3f6-7e9ccdc2e8d9" /><br><br>
+Issue:<br>
+Users reported that Outlook search results were displaying older emails instead of recently received messages.<br><br>
+
+Troubleshooting Steps:<br>
+
+Reviewed the reported Outlook search issue.<br>
+Escalated the issue to Tier 2 Support for further investigation.<br><br>
+Solution:<br>
+Issue appears to be affecting multiple users and is likely related to a backend search or indexing problem. Escalated to Tier 2 Support for further analysis and resolution. Awaiting updates from Tier 2.<br><hr>
 <h1>#Ticket 11#</h1>
 <h1>#Ticket 12#</h1>
 <h1>#Ticket 13#</h1>
