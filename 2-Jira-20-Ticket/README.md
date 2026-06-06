@@ -139,8 +139,8 @@ Users reported that Outlook search results were displaying older emails instead 
 
 Troubleshooting Steps:<br>
 
-Reviewed the reported Outlook search issue.<br>
-Escalated the issue to Tier 2 Support for further investigation.<br><br>
+1-Reviewed the reported Outlook search issue.<br>
+2-Escalated the issue to Tier 2 Support for further investigation.<br><br>
 Solution:<br>
 Issue appears to be affecting multiple users and is likely related to a backend search or indexing problem. Escalated to Tier 2 Support for further analysis and resolution. Awaiting updates from Tier 2.<br><hr>
 <h1>#Ticket 11#</h1>
