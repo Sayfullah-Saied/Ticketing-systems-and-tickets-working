@@ -144,6 +144,20 @@ Troubleshooting Steps:<br>
 Solution:<br>
 Issue appears to be affecting multiple users and is likely related to a backend search or indexing problem. Escalated to Tier 2 Support for further analysis and resolution. Awaiting updates from Tier 2.<br><hr>
 <h1>#Ticket 11#</h1>
+<img width="647" height="534" alt="1" src="https://github.com/user-attachments/assets/f2dcf61f-f864-431f-852d-c2920514a83c" /><br><br>
+Issue:<br>
+User reported that a coworker's computer was infected with ransomware after opening an email attachment. Files were no longer accessible.<br><br>
+
+Troubleshooting Steps:<br>
+
+1-Advised the user to immediately power off the affected computer to prevent further encryption or network impact.<br>
+2-Isolated the device from the environment.<br>
+3-Escalated the incident to the security team for investigation.<br>
+4-Assessed options for data recovery from backups and cloud storage.<br>
+5-Arranged a replacement workstation for the affected user to minimize downtime.<br><br>
+
+Solution:<br>
+Affected device was removed from service and isolated for investigation. Incident was escalated to the security team, and data recovery options were reviewed. A replacement computer was provided to the user while remediation and recovery efforts were underway.<br><hr>
 <h1>#Ticket 12#</h1>
 <h1>#Ticket 13#</h1>
 <h1>#Ticket 14#</h1>
