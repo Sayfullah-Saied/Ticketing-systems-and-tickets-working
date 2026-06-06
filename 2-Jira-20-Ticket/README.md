@@ -72,8 +72,50 @@ Advised the user to use OneDrive/SharePoint to share the file.<br><br>
 Solution:<br>
 Email was blocked due to the attachment exceeding the maximum allowed size. User was advised to upload the file to OneDrive/SharePoint and share a link instead.<br><hr>
 <h1>#Ticket 6#</h1>
+<img width="691" height="509" alt="2" src="https://github.com/user-attachments/assets/9d470754-8b93-4042-a67b-9e86af09f800" /><br>
+<img width="252" height="85" alt="1" src="https://github.com/user-attachments/assets/db751f68-ce1f-4cc7-ad0d-9f1f199ebe08" /><br><br>
+Issue:<br>
+User was unable to edit a PNET profile and received an error message.<br><br>
+
+Troubleshooting Steps:<br>
+
+1-Reviewed the error message provided by the user.<br>
+2-Refreshed the user's permissions and had the user sign out and back in.<br>
+3-Tested editing the PNET profile.<br>
+4-Confirmed the profile could be updated successfully.<br><br>
+
+Solution:<br>
+Issue was caused by a permissions/profile synchronization problem. Refreshed the user's access and reauthenticated the session. Verified the user was able to edit the PNET profile successfully.<br><hr>
 <h1>#Ticket 7#</h1>
+<img width="671" height="532" alt="2" src="https://github.com/user-attachments/assets/5451a230-71ab-49b7-8db4-8d7136aa5a8e" /><br><br>
+Issue:<br>
+User was unable to log in remotely and received the error "User account not authorized for remote login."<br><br>
+
+Troubleshooting Steps:<br>
+1-Verified the user's account and remote access permissions.<br>
+2-Added the user to the appropriate Remote Desktop access group.<br>
+<img width="365" height="335" alt="Screenshot 2026-06-05 184043" src="https://github.com/user-attachments/assets/e57c0dde-14b4-4bda-b2d3-c34a6c25e0b3" /><br>
+3-Confirmed the user was able to log in successfully.<br><br>
+
+Solution:<br>
+User did not have the required Remote Desktop permissions. Added the account to the appropriate access group and verified that remote login was working successfully.<br><hr>
 <h1>#Ticket 8#</h1>
+<img width="617" height="509" alt="1" src="https://github.com/user-attachments/assets/b2a5ece0-645e-44f6-9229-3ecb0f1dea21" /><br><br>
+Issue:<br>
+User reported that documents were not printing.<br><br>
+
+Troubleshooting Steps:<br>
+
+1-Connected to the user's computer remotely.<br>
+2-Verified the correct printer was selected as the default printer.<br>
+3-Checked the printer status and connectivity.<br>
+4-Cleared stuck print jobs from the print queue.<br>
+5-Restarted the Print Spooler service.<br>
+6-Sent a test print to the printer.<br>
+7-Confirmed printing was working normally.<br><br>
+
+Solution:<br>
+Found stuck print jobs in the print queue. Cleared the queue and restarted the Print Spooler service. Tested printing successfully and confirmed with the user that documents were printing again.<br>
 <h1>#Ticket 9#</h1>
 <h1>#Ticket 10#</h1>
 <h1>#Ticket 11#</h1>
