@@ -188,6 +188,22 @@ Confirmed headset functionality with the user.<br><br>
 Solution:<br>
 The headset was not selected as the active audio device in Windows and/or Avaya Communicator. Updated the audio settings and verified that the headset was working properly for calls.<br>
 <h1>#Ticket 14#</h1>
+<img width="640" height="492" alt="1" src="https://github.com/user-attachments/assets/f06b7248-85bb-4a52-8a0e-e0d972231cb6" /><br><br>
+Issue:<br>
+User reported that their laptop would not connect to an external monitor or TV using HDMI.<br><br>
+
+Troubleshooting Steps:<br>
+
+1-Connected to the user's computer remotely.<br>
+2-Verified the HDMI cable was securely connected.<br>
+3-Checked that the correct input source was selected on the monitor/TV.<br>
+4-Reviewed Windows display settings and detected connected displays.<br>
+5-Used Windows + P to test Duplicate and Extend display modes.<br>
+6-Updated the display configuration and refreshed display detection.<br>
+7-Tested the HDMI connection and confirmed the external display was recognized.<br><br>
+
+Solution:<br>
+The external display was not configured correctly in Windows display settings. Updated the display configuration and detected the monitor successfully. Confirmed the laptop was able to display content through HDMI.<br>
 <h1>#Ticket 15#</h1>
 <h1>#Ticket 16#</h1>
 <h1>#Ticket 17#</h1>
