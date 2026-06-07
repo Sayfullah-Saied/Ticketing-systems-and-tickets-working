@@ -1,7 +1,8 @@
 <h1>we will solve 20 common ticket on fresh desk tickting system</h1>
 <br>
 These are the tickets let's work it one by one:<br>
-<img width="1070" height="634" alt="11111" src="https://github.com/user-attachments/assets/bc03a0e0-cd45-4288-86a1-0e2a8b0111bb" /><br><br><hr>
+<img width="1070" height="634" alt="2222" src="https://github.com/user-attachments/assets/7936d280-21e2-44f6-86c9-98c42f0b0a5b" />
+<br><br><hr>
 
 <h1>#Ticket 1#</h1>
 <img width="545" height="545" alt="1" src="https://github.com/user-attachments/assets/4f9b9668-8602-4b87-8d92-5b1cd37c6696" /><br><br>
