@@ -1,4 +1,4 @@
-<h1>Zendesk my fivorat system, we will solve another 20 common help desk tickets on this system</h1><br><hr>
+<h1>Zendesk my favorite system, we will solve another 20 common help desk tickets on this system</h1><br><hr>
 <br><hr>
 <h1>#Ticket 1#</h1>
 <br><hr>
