@@ -204,10 +204,106 @@ Troubleshooting Steps:<br>
 7-Tested the HDMI connection and confirmed the external display was recognized.<br><br>
 
 Solution:<br>
-The external display was not configured correctly in Windows display settings. Updated the display configuration and detected the monitor successfully. Confirmed the laptop was able to display content through HDMI.<br>
+The external display was not configured correctly in Windows display settings. Updated the display configuration and detected the monitor successfully. Confirmed the laptop was able to display content through HDMI.<br><hr>
+
 <h1>#Ticket 15#</h1>
+<img width="620" height="557" alt="1" src="https://github.com/user-attachments/assets/910b4ab5-7106-432c-975f-eaab755e2846" /><br><br>
+Issue:<br>
+User reported that the Backspace and Enter keys are not working on an Acer laptop. The user already attempted to uninstall and reinstall the keyboard drivers through Device Manager, but the issue persists.<br><br>
+
+Troubleshooting Steps:<br>
+
+1-Reviewed the issue reported by the user and confirmed that only specific keys (Backspace and Enter) are affected.<br>
+2-Verified that the user had already uninstalled and reinstalled the keyboard drivers without resolving the issue.<br>
+3-Advised the user that the issue is unlikely to be driver-related since only specific keys are affected.<br>
+4-Recommended checking for debris, dust, or physical obstruction underneath the affected keys.<br>
+5-Advised the user to test an external USB keyboard to determine whether the issue is isolated to the laptop keyboard hardware.<br>
+6-Recommended inspecting the keyboard ribbon cable connection if the device has recently been serviced or opened.<br>
+7-Advised that keyboard replacement may be required if the keys continue to fail after physical inspection and testing.<br><br>
+
+Solution:<br>
+Determined that the issue is most likely related to a hardware problem with the laptop keyboard rather than a driver issue. Advised the user to inspect and clean the affected keys, test with an external keyboard, and arrange for keyboard replacement if the problem persists.<br><hr>
+
 <h1>#Ticket 16#</h1>
+<img width="643" height="515" alt="2" src="https://github.com/user-attachments/assets/06890572-b642-4008-b719-041304749078" /><br><br>
+Issue:<br>
+Users reported that the Wi-Fi connection disconnects randomly throughout the day. The issue affects multiple users and occurs approximately 2–4 times daily.<br><br>
+
+Troubleshooting Steps:<br>
+
+1-Reviewed the reported Wi-Fi disconnection issue affecting multiple users.<br>
+2-Confirmed that the issue occurs intermittently and is not isolated to a single device.<br>
+3-Verified that the wireless network is operational but experiencing random connection drops.<br>
+4-Considered network congestion due to the number of devices connected to the wireless network.<br>
+5-Recommended reviewing router and wireless access point settings, including client limits and channel utilization.<br>
+6-Advised monitoring Wi-Fi performance and checking for interference from nearby wireless networks.<br><br>
+
+Solution:<br>
+Determined that the issue is likely related to wireless network congestion or router configuration. Recommended reviewing router settings, reducing wireless congestion, and optimizing Wi-Fi channels to improve connection stability. Further monitoring is required to confirm resolution.<br><hr>
 <h1>#Ticket 17#</h1>
+<img width="650" height="525" alt="1" src="https://github.com/user-attachments/assets/ceab3bc2-44b1-4249-9ed2-ac09c4347992" /><br><br>
+Issue:<br>
+User reported that LibreOffice does not open after installation. The user is unable to launch the application or open files using LibreOffice.<br><br>
+
+Troubleshooting Steps:<br>
+
+1-Reviewed the issue reported by the user regarding LibreOffice failing to open after installation.<br>
+2-Verified that LibreOffice was installed successfully.<br>
+3-Advised the user to uninstall and reinstall LibreOffice to ensure all application files are installed correctly.<br>
+4-Recommended checking whether antivirus software has quarantined or removed any LibreOffice program files.<br>
+5-Advised the user to temporarily disable antivirus protection during reinstallation if permitted by company policy.<br>
+6-Recommended verifying that the files being opened are in a format supported by LibreOffice.<br>
+7-Advised the user to test launching LibreOffice directly from the Start Menu before opening documents.<br><br>
+
+Solution:<br>
+Provided guidance to reinstall LibreOffice and verify that antivirus software is not interfering with the installation. Also advised the user to confirm that the files being opened are in a supported format. Awaiting user feedback to confirm resolution.<br><hr>
 <h1>#Ticket 18#</h1>
+<img width="622" height="536" alt="1" src="https://github.com/user-attachments/assets/c2fef290-023e-4c0e-ad1c-21d837d45407" /><br><br>
+Issue:<br>
+User reported that Outlook is extremely slow when sending emails. A 2 MB attachment took more than 30 minutes to send, and the issue has not occurred previously.<br><br>
+
+Troubleshooting Steps:<br>
+
+1-Reviewed the issue reported by the user regarding slow email delivery in Outlook.<br>
+2-Verified that the attachment size (2 MB) is small and should not normally cause significant delays.<br>
+3-Considered possible causes including Outlook profile corruption, network connectivity issues, mailbox synchronization issues, or add-in conflicts.<br>
+4-Advised the user to create a new Outlook profile through Control Panel > Mail.<br>
+5-Instructed the user to configure their mailbox in the new Outlook profile and test sending emails again.<br>
+6-Recommended monitoring Outlook performance after the new profile is created.<br><br>
+
+Solution:<br>
+Advised the user to create a new Outlook mail profile and reconfigure the mailbox. A corrupted Outlook profile is the most likely cause of the delay. Awaiting user feedback to confirm whether email sending performance improves after the profile reset.<br><hr>
 <h1>#Ticket 19#</h1>
+<img width="662" height="496" alt="1" src="https://github.com/user-attachments/assets/d7949bcf-0f77-4d67-b08c-613073380f14" /><br><br>
+Issue:<br>
+User reported that the printer is not printing double-sided (duplex) pages. The printer is currently printing on only one side of the paper.<br><br>
+
+Troubleshooting Steps:<br>
+
+1-Reviewed the printer issue with the user and confirmed that double-sided printing is not working.<br>
+2-Verified that the printer model supports automatic duplex printing.<br>
+3-Checked the printer settings under Printers & Scanners.<br>
+4-Reviewed the printer driver configuration and printing preferences.<br>
+5-Verified whether the Print on Both Sides or Duplex Printing option was enabled.<br>
+6-Advised the user to enable duplex printing in the printer properties if it was disabled.<br>
+7-Recommend testing a print job after updating the printer settings.<br><br>
+
+Solution:<br>
+Advised the user to review the printer driver settings and enable the duplex (double-sided) printing option in the printer preferences. If the option is unavailable, verify that the correct printer driver is installed and that the printer model supports duplex printing.<br><hr>
 <h1>#Ticket 20#</h1>
+<img width="620" height="494" alt="1" src="https://github.com/user-attachments/assets/90b9df83-ad07-4245-b17c-fb48b688fbde" /><br><br>
+Issue:<br>
+User reported that the computer is running slowly and would like guidance on improving system performance.<br><br>
+
+Troubleshooting Steps:<br>
+
+1-Reviewed the user's complaint regarding overall system slowness.<br>
+2-Advised the user to open Task Manager and review CPU, Memory, Disk, and Network utilization.<br>
+3-Recommended identifying any applications or processes consuming excessive system resources.<br>
+4-Advised closing unnecessary applications and disabling non-essential startup programs.<br>
+5-Recommended checking available disk space and ensuring sufficient free storage is available.<br>
+6-Advised scanning the system for malware or unwanted software if performance issues persist.<br>
+7-Recommended reviewing hardware specifications to determine if upgrades such as additional RAM or an SSD are required.<br><br>
+
+Solution:<br>
+Provided guidance on using Task Manager to identify resource bottlenecks and determine whether CPU, memory, disk, or network usage is causing the slowdown. Advised the user to address any resource-intensive processes and evaluate hardware upgrades if necessary.<br><hr>
