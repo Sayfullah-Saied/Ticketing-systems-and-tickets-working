@@ -1,4 +1,5 @@
 <h1>Zendesk my favorite system, we will solve another 20 common help desk tickets on this system</h1><br><hr>
+<img width="1074" height="641" alt="Screenshot 2026-06-09 234703" src="https://github.com/user-attachments/assets/2ecdbe44-f395-4be6-a9bc-0875bf29f83a" />
 <br><hr>
 <h1>#Ticket 1#</h1>
 <img width="494" height="468" alt="2" src="https://github.com/user-attachments/assets/1957e7d5-9b82-4f3b-a1a6-135187ceeb52" /><br><br>
